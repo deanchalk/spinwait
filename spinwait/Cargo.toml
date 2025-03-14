@@ -1,0 +1,9 @@
+[package]
+name = "spinwait"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust implementation of C#'s SpinWait type for lightweight spinning."
+license = "MIT"
+
+[dependencies]
+num_cpus = "1.16.0"
