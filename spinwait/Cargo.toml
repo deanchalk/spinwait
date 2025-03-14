@@ -1,6 +1,6 @@
 [package]
 name = "spinwait"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 authors = ["Dean Chalk dean.chalk@gmail.com"]
 description = "A Rust implementation of C#'s SpinWait type for lightweight spinning."

@@ -1,2 +1,2 @@
 # spinwait
-A Rust implementation of the C# low-level SpinWait class used for high-performance thread synchronisation
+A Rust crate providing a lightweight, adaptive spinning mechanism inspired by C#’s SpinWait type. Designed for high-performance, short-duration waits in concurrent applications, this implementation minimizes context-switching overhead by spinning efficiently before yielding to the scheduler.
