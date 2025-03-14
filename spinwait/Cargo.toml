@@ -1,9 +1,12 @@
 [package]
 name = "spinwait"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
+authors = ["Dean Chalk dean.chalk@gmail.com"]
 description = "A Rust implementation of C#'s SpinWait type for lightweight spinning."
 license = "MIT"
+repository = "https://github.com/deanchalk/spinwait"
+homepage = "https://github.com/deanchalk/spinwait"
 
 [dependencies]
 num_cpus = "1.16.0"
